@@ -1,0 +1,16 @@
+__pycache__/
+/venv
+bot.service
+/Audios
+*.py[cod]
+
+.handler-saves
+
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.ntjsproj
+*.sln
+*.sw?
+auth_data.py

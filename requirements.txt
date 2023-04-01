@@ -1,0 +1,4 @@
+pytube==12.1.0
+telebot==0.0.5
+pyTelegramBotAPI==4.7.0
+wheel==0.37.1
